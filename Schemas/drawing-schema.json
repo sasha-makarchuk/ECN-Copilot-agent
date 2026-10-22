@@ -1,0 +1,35 @@
+{
+  "type": "drawing",
+  "part_num": "",
+  "description": "",
+  "weight": 0,
+  "rev": "",
+  "revtable": "",
+  "material": "",
+  "coating": "",
+  "part_category": "ASSEMBLY | SHEET METAL | OTHER",
+  "ecn": "",
+  "pages": [],
+  "cutlist": {
+    "cl_thickness": "",
+    "cl_length": "",
+    "cl_width": "",
+    "fp_length": "",
+    "fp_width": ""
+  },
+  "num_bends": 0,
+  "fp_exists": false,
+  "folder_exists": false,
+  "fp_note": false,
+  "fp_boundingbox": false,
+  "dangling_dim":  false,
+  "parts": [
+    {
+      "part_num": "",
+      "description": "",
+      "qty": 0,
+      "item_no": 0,
+      "weight": 0
+    }
+  ]
+}

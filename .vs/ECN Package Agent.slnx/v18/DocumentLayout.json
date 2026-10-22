@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\SEVERITY_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Standards\\SEVERITY_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\OUTPUT_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Standards\\OUTPUT_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\page-index-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Schemas\\page-index-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\package-index-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Schemas\\package-index-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\review-results-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Schemas\\review-results-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\finding-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Schemas\\finding-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\STATUS_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Standards\\STATUS_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Agent_Instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agent_Instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\review-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\review-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rotate-pages\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\rotate-pages\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rearrange-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\rearrange-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\merge-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Skills\\merge-package\\SKILL.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "review-results-schema.json",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\review-results-schema.json",
+              "RelativeDocumentMoniker": "Skills\\standards\\Schemas\\review-results-schema.json",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\review-results-schema.json",
+              "RelativeToolTip": "Skills\\standards\\Schemas\\review-results-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T11:36:40.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page-index-schema.json",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\page-index-schema.json",
+              "RelativeDocumentMoniker": "Skills\\standards\\Schemas\\page-index-schema.json",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\page-index-schema.json",
+              "RelativeToolTip": "Skills\\standards\\Schemas\\page-index-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T11:36:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package-index-schema.json",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\package-index-schema.json",
+              "RelativeDocumentMoniker": "Skills\\standards\\Schemas\\package-index-schema.json",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\package-index-schema.json",
+              "RelativeToolTip": "Skills\\standards\\Schemas\\package-index-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T11:36:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "finding-schema.json",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\finding-schema.json",
+              "RelativeDocumentMoniker": "Skills\\standards\\Schemas\\finding-schema.json",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Schemas\\finding-schema.json",
+              "RelativeToolTip": "Skills\\standards\\Schemas\\finding-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T11:36:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "STATUS_STANDARD.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\STATUS_STANDARD.md",
+              "RelativeDocumentMoniker": "Skills\\standards\\Standards\\STATUS_STANDARD.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\STATUS_STANDARD.md",
+              "RelativeToolTip": "Skills\\standards\\Standards\\STATUS_STANDARD.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-06T11:18:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SEVERITY_STANDARD.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\SEVERITY_STANDARD.md",
+              "RelativeDocumentMoniker": "Skills\\standards\\Standards\\SEVERITY_STANDARD.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\SEVERITY_STANDARD.md",
+              "RelativeToolTip": "Skills\\standards\\Standards\\SEVERITY_STANDARD.md",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-06T11:18:14.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OUTPUT_STANDARD.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\OUTPUT_STANDARD.md",
+              "RelativeDocumentMoniker": "Skills\\standards\\Standards\\OUTPUT_STANDARD.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\OUTPUT_STANDARD.md",
+              "RelativeToolTip": "Skills\\standards\\Standards\\OUTPUT_STANDARD.md",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:49:56.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agent_Instructions.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Agent_Instructions.md",
+              "RelativeDocumentMoniker": "Agent_Instructions.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Agent_Instructions.md",
+              "RelativeToolTip": "Agent_Instructions.md",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-06T13:33:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PACKAGE_ORDER_STANDARD.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md",
+              "RelativeDocumentMoniker": "Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md",
+              "RelativeToolTip": "Skills\\standards\\Standards\\PACKAGE_ORDER_STANDARD.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-06T11:18:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rotate-pages\\SKILL.md",
+              "RelativeDocumentMoniker": "Skills\\rotate-pages\\SKILL.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rotate-pages\\SKILL.md",
+              "RelativeToolTip": "Skills\\rotate-pages\\SKILL.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:53:53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\review-package\\SKILL.md",
+              "RelativeDocumentMoniker": "Skills\\review-package\\SKILL.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\review-package\\SKILL.md",
+              "RelativeToolTip": "Skills\\review-package\\SKILL.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:53:46.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rearrange-package\\SKILL.md",
+              "RelativeDocumentMoniker": "Skills\\rearrange-package\\SKILL.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\rearrange-package\\SKILL.md",
+              "RelativeToolTip": "Skills\\rearrange-package\\SKILL.md",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:53:34.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\SKILL.md",
+              "RelativeDocumentMoniker": "Skills\\standards\\SKILL.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\standards\\SKILL.md",
+              "RelativeToolTip": "Skills\\standards\\SKILL.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:51:04.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\merge-package\\SKILL.md",
+              "RelativeDocumentMoniker": "Skills\\merge-package\\SKILL.md",
+              "ToolTip": "C:\\Users\\smakarchuk\\OneDrive - Tigercat\\Documents\\Copilot Skills\\ECN Package Agent\\Skills\\merge-package\\SKILL.md",
+              "RelativeToolTip": "Skills\\merge-package\\SKILL.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-05T21:50:29.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
