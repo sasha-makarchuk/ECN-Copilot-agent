@@ -4,25 +4,26 @@
   "description": "",
   "weight": 0,
   "rev": "",
-  "revtable": "",
+  "revtable": [],
   "material": "",
   "coating": "",
   "part_category": "ASSEMBLY | SHEET METAL | OTHER",
   "ecn": "",
   "pages": [],
   "cutlist": {
-    "cl_thickness": "",
-    "cl_length": "",
-    "cl_width": "",
-    "fp_length": "",
-    "fp_width": ""
+    "cl_thickness": 0,
+    "cl_length": 0,
+    "cl_width": 0,
+    "fp_length": 0,
+    "fp_width": 0
   },
   "num_bends": 0,
   "fp_exists": false,
-  "folder_exists": false,
+  "folded_exists": false,
   "fp_note": false,
   "fp_boundingbox": false,
   "dangling_dim":  false,
+  "bom_exists": false,
   "parts": [
     {
       "part_num": "",
