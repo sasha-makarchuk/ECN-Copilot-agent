@@ -1,6 +1,8 @@
 ---
 name: drawing-information-extraction
 description: Extract information from engineering drawings and populate the Drawing schema.
+input: PDF file
+output: drawing-schema
 ---
 
 # Drawing Information Extraction
@@ -149,6 +151,114 @@ Extract complete revision history text when available. Each row except header sh
 - ECN
 
 Preserve original content as closely as possible.
+
+## Revision Table Normalization
+
+When extracting revision table data, normalize revision values before storing them in the schema.
+
+If the latest revision row contains:
+
+```text
+**
+```
+
+replace it with the next sequential revision value.
+
+### Single Revision Row
+
+If the revision table contains a single row and the revision value is:
+
+```text
+**
+```
+
+store:
+
+```text
+00
+```
+
+Example:
+
+```text
+**
+```
+
+becomes:
+
+```text
+00
+```
+
+### Multiple Revision Rows
+
+If the latest revision row contains:
+
+```text
+**
+```
+
+determine the previous revision and increment it by one.
+
+Examples:
+
+```text
+00
+01
+**
+```
+
+becomes:
+
+```text
+00
+01
+02
+```
+
+```text
+00
+01
+02
+**
+```
+
+becomes:
+
+```text
+00
+01
+02
+03
+```
+
+### Formatting
+
+Preserve leading zeros.
+
+Examples:
+
+```text
+00 -> 01 -> 02
+```
+
+```text
+08 -> 09 -> 10
+```
+
+The extracted schema shall not contain:
+
+```text
+**
+```
+
+when a sequential revision can be determined.
+
+Normalize the revision value before populating:
+
+```json
+revtable[].rev
+```
 
 ---
 

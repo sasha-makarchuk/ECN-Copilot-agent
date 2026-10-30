@@ -1,0 +1,44 @@
+{
+  "type": "review_result",
+  "overall_status": "PASS | FAIL | UNCLEAR",
+
+  "summary": {
+    "drawing_failures": 0,
+    "drawing_unclear": 0,
+    "package_failures": 0,
+    "package_unclear": 0,
+    "ecn_failures": 0,
+    "ecn_unclear": 0
+  },
+
+  "drawings": [
+    {
+      "part_num": "",
+      "description": "",
+      "rev": "",
+      "status": "PASS | FAIL | UNCLEAR",
+
+      "checks": [
+        {
+          "source": "DRAWING | PACKAGE | ECN",
+          "check": "",
+          "status": "PASS | FAIL | UNCLEAR",
+          "pages": [],
+          "part_num": "",
+          "findings": []
+        }
+      ]
+    }
+  ],
+
+  "remaining_findings": [
+    {
+      "source": "PACKAGE | ECN",
+      "check": "",
+      "status": "PASS | FAIL | UNCLEAR",
+      "pages": [],
+      "part_num": "",
+      "findings": []
+    }
+  ]
+}

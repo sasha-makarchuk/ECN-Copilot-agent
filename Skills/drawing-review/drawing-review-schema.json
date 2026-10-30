@@ -1,0 +1,6 @@
+{
+  "type": "drawing_review",
+  "part_num": "",
+  "status": "PASS | FAIL | UNCLEAR",
+  "checks": []
+}

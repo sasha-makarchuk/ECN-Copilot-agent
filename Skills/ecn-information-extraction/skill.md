@@ -1,6 +1,8 @@
 ---
 name: ecn-information-extraction
 description: Extract information from Engineering Change Notices and populate the ECN schema.
+input: PDF file
+output: ecn-schema
 ---
 
 # Purpose
